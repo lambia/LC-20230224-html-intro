@@ -2,3 +2,16 @@ body {
     background: #222;
     color: white;
 }
+
+thead {
+    background: red;
+}
+
+tbody {
+    background: white;
+    color: black;
+}
+
+tfoot {
+    background: teal;
+}
